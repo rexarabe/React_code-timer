@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+h3, h1{
+    display: flex;
+    justify-content:space-around;
+}
+inputGroup{
+    display: flex;
+    justify-content:space-around;
+}
+div1{
+    display: flex;
+    justify-content: space-around;
+}
+input1{
+    display: flex;
+    justify-content: center;
+}
+button{
+    padding: 10px;
+}
